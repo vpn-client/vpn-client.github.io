@@ -1,4 +1,4 @@
-# VPN客户端 | 10月20日21.8M/S|免费Singbox节点/V2ray节点/Shadowrocket节点/SSR节点/Clash节点节点推荐，在线VPN机场梯子购买推荐  更新时间 2026-10-20 09:08:02
+# VPN客户端 | 10月27日19.4M/S|免费Clash节点/Singbox节点/V2ray节点/Shadowrocket节点/SSR节点节点推荐，在线VPN机场梯子购买推荐  更新时间 2026-10-27 11:12:08
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://vpn-client.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://vpn-client.github.io/uploads/2026/10/0-20261020.yaml
-- https://vpn-client.github.io/uploads/2026/10/1-20261020.yaml
-- https://vpn-client.github.io/uploads/2026/10/2-20261020.yaml
-- https://vpn-client.github.io/uploads/2026/10/3-20261020.yaml
-- https://vpn-client.github.io/uploads/2026/10/4-20261020.yaml
+- https://vpn-client.github.io/uploads/2026/10/0-20261027.yaml
+- https://vpn-client.github.io/uploads/2026/10/1-20261027.yaml
+- https://vpn-client.github.io/uploads/2026/10/2-20261027.yaml
+- https://vpn-client.github.io/uploads/2026/10/3-20261027.yaml
+- https://vpn-client.github.io/uploads/2026/10/4-20261027.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://vpn-client.github.io/uploads/2026/10/0-20261020.txt
-- https://vpn-client.github.io/uploads/2026/10/1-20261020.txt
-- https://vpn-client.github.io/uploads/2026/10/2-20261020.txt
-- https://vpn-client.github.io/uploads/2026/10/3-20261020.txt
-- https://vpn-client.github.io/uploads/2026/10/4-20261020.txt
+- https://vpn-client.github.io/uploads/2026/10/0-20261027.txt
+- https://vpn-client.github.io/uploads/2026/10/1-20261027.txt
+- https://vpn-client.github.io/uploads/2026/10/2-20261027.txt
+- https://vpn-client.github.io/uploads/2026/10/3-20261027.txt
+- https://vpn-client.github.io/uploads/2026/10/4-20261027.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://vpn-client.github.io/uploads/2026/10/20261020.json
+- https://vpn-client.github.io/uploads/2026/10/20261027.json
 
 ## 更多Clash节点订阅 ：
 
